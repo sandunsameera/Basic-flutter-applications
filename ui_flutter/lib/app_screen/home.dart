@@ -9,6 +9,7 @@ class Home extends StatelessWidget {
       child: Text(
         "Flight",
         textDirection: TextDirection.ltr,
+        ,
       ),
     );
   }
